@@ -216,7 +216,7 @@ p span {
 }
 
 #hero.container {
-    background-image: url(/images/bg-data.png);
+    background-image: url(images/bg-data.png);
     background-repeat: no-repeat, repeat;
     background-size: cover;
 }
